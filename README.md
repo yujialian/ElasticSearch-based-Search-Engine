@@ -5,16 +5,16 @@
 ElasticSearch based Search Engine for IT jobs, articles, and Technology
 
 # Environment
-  Django (1.11.3)
-  elasticsearch (5.4.0)
-  elasticsearch-dsl (5.3.0)
-  PyMySQL (0.7.11)
-  Scrapy (1.3.3)
-  scrapyd (1.2.0)
-  scrapyd-client (1.1.0)
-  selenium (3.4.1)
-  Twisted (17.1.0)
-  redis (2.10.5)
+Django (1.11.3)
+elasticsearch (5.4.0)
+elasticsearch-dsl (5.3.0)
+PyMySQL (0.7.11)
+Scrapy (1.3.3)
+scrapyd (1.2.0)
+scrapyd-client (1.1.0)
+selenium (3.4.1)
+Twisted (17.1.0)
+redis (2.10.5)
 
 # Bref description
 Main interface
